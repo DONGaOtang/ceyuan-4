@@ -1,0 +1,18 @@
+.workbuddy/
+.dsh-repair/
+.dsh-research/
+output/
+research/
+findings.md
+progress.md
+task_plan.md
+
+# 非 skill 内容（工具 / 产物，不随仓库发布）
+*.docx
+*.py
+*.zip
+
+# 分析 / 审查 / 测试产物（本地保留，不进仓库）
+/ceyuan-*.md
+/ceyuan-2*.md
+/我把我自己的策划经验，蒸馏成了一个skill.md
